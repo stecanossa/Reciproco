@@ -1,4 +1,4 @@
-# **Welcome to FourierTiler!**
+# **Welcome to Reciproco!**
 
 
 This program contains various interactive tools for the use of of single-crystal diffraction data for total scattering research.
